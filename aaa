@@ -1,0 +1,12 @@
+[Unit]
+Description=Start once
+After=network.target
+
+[Service]
+Type=simple 
+ExecStart=/bin/bash -c 'ifconfig eth0 up && ip addr flush eth0 && ip addr add 200.200.200.1/24 dev eth0 && sleep 180 && cd /home/anhle/py_ws && python>
+User=root
+Restart=always
+RestartSec=10
+[Install]
+WantedBy=multi-user.target
