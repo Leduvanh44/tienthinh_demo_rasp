@@ -3,7 +3,7 @@ import time
 import json
 
 # MQTT broker
-BROKER = "20.39.193.159"
+BROKER = "20.41.104.186"
 PORT = 1883
 
 # Định nghĩa các mảng dữ liệu

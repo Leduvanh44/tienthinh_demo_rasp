@@ -20,4 +20,11 @@ systemctl daemon-reload
 
 modbus_mqtt.service
 
+start_reboot.service: modbus tcp
+start_reboot_lear.service: lear reader
+
 openjdk-11-jdk: java
+
+
+
+sudo mount -t cifs //192.168.1.76/4l_db /mnt/pcshare -o username=lj20180821,password=44
