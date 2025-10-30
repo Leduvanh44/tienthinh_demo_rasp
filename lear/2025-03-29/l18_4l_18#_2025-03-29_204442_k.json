@@ -1,0 +1,23 @@
+{
+    "Line": "L18_4L_18#",
+    "Length": "55473",
+    "Speed": "119",
+    "Duration": "07:43",
+    "StartTime": "2025-03-29_13:01:24",
+    "EndTime": "2025-03-29_20:44:42",
+    "ReportDate": "2025-03-29",
+    "PinholeSet": {
+        "HVSet": "500V",
+        "LeakageCurrentSV": "9",
+        "LengthofPhCSTD": "300",
+        "NumofPhCSTD": "3",
+        "PinholeUL30M": "5",
+        "PinholeAvgUL30M": "2.0"
+    },
+    "PinholeRes": {
+        "PinholeTotal": "14",
+        "ContinuousPinhole": "0",
+        "PinholeOV30M": "0",
+        "PinholeAvg30M": "0.0"
+    }
+}

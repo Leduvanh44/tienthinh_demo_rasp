@@ -1,0 +1,45 @@
+[
+    {
+    "name": "tempTD1",
+    "value":[{
+                "name": "temp1TD1",
+                "tempValue": 34.56
+            },
+            {
+                "name": "temp2TD1",
+                "tempValue": 34.56
+            },
+            {
+                "name": "temp3TD1",
+                "tempValue": 34.56
+            },
+
+            {
+                "name": "temp1TD1",
+                "tempValue": 34.56
+            },
+            {
+                "name": "temp2TD1",
+                "tempValue": 34.56
+            },
+            {
+                "name": "temp3TD1",
+                "tempValue": 34.56
+            }]
+    },
+    {
+    "name": "velTD1",
+    "value":[{
+                "name": "vel1TD1",
+                "velValue": 34.56
+            },
+            {
+                "name": "vel2TD1",
+                "velValue": 34.56
+            },
+            {
+                "name": "vel3TD1",
+                "velValue": 34.56
+            }]
+    }
+]
